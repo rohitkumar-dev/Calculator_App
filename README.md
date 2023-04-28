@@ -56,7 +56,7 @@ To develop this app further, here are some potential areas of improvement:
 - Add more error handling for invalid inputs
 - Add more keyboard support, such as arrow keys to move between input fields
 
-## Contributing
+## Contributing*
 
 Contributions to this project are welcome. To contribute, follow these steps:
 
